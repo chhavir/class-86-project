@@ -1,0 +1,20 @@
+.body_backgorund 
+{
+    background-image:url(hOye.gif);
+    background-position:center;
+    background-size:cover;
+    
+}
+#myCanvas
+{
+   border: 10px aliceblue solid;    
+   border-width: 10px;
+}
+
+.btn-lg
+{
+    text-align: center;
+    margin-left: 800px;
+    margin-top: 20px;
+}
+
